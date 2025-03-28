@@ -1,8 +1,6 @@
 # 23 种设计模式
 
-## 原文地址
 
-https://github.com/danggui2008/design_pattern
 
 ## **1. 创建型模式（Creational Patterns）**
 
@@ -87,3 +85,5 @@ https://github.com/danggui2008/design_pattern
 11. **访问者模式（Visitor）**
     - 表示一个作用于某对象结构中的各元素的操作，使得可以在不改变各元素类的前提下定义新操作。
     - 示例：文件系统遍历。
+
+[link](https://github.com/danggui2008/design_pattern)
